@@ -1,4 +1,4 @@
-# Título del Proyecto
+# REACT SEARCH IMAGES
 
 _Buscador de imágenes desde una API._
 
@@ -54,4 +54,4 @@ Este proyecto está bajo la Licencia [MIT](https://es.wikipedia.org/wiki/Licenci
 
 ## Expresiones de Gratitud 🎁
 
-* Gracias por haber echado un ojo, espero que te hay gustado!!!!
+* Gracias por haber echado un ojo, espero que te haya gustado!!!!
