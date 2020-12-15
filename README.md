@@ -40,7 +40,7 @@ _Algunas herramientas que se emplearon para este proyecto son:_
 
 * [ReactJs](https://es.reactjs.org/docs/getting-started.html) - Framework usado
 * [VSCode](https://code.visualstudio.com/download) - Editor de código
-* [API](https://maven.apache.org/) - Api utilizada
+* [API](https://pixabay.com/api/?key=1732750-d45b5378879d1e877cd1d35a6&q=cafe&per_page=30&page=1) - Api utilizada
 * [GGh-pages](https://www.npmjs.com/package/gh-pages) - Modulo utilizado
 
 ## Autores ✒️
